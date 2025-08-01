@@ -4,16 +4,9 @@
 > “深圳杯”数学建模挑战赛（原名为：全国大学生数学建模夏令营）是全国大学生数学建模竞赛活动的延伸，由全国大学生数学建模竞赛组委会组织。放宽了对参赛者地域和身份的限制，大学生、研究生以及社会人士都可以参赛，解答时间也比较长，而且允许参赛同学自由地和老师、甚至专家一起研讨。本次大赛历经4个月的全国初赛海选，最后选出66支决赛队伍进行角逐。
 
 ## 📑 目录
-<div style="display:flex;flex-wrap:wrap;gap:12px;">
-
-<a href="#背景知识" style="flex:1 1 160px;text-align:center;padding:8px 12px;border:1px solid #dfe1e4;border-radius:6px;text-decoration:none;color:#0969da;">📖 背景知识</a>
-<a href="#解决什么问题" style="flex:1 1 160px;text-align:center;padding:8px 12px;border:1px solid #dfe1e4;border-radius:6px;text-decoration:none;color:#0969da;">🎯 解决什么问题</a>
-<a href="#如何解决问题" style="flex:1 1 160px;text-align:center;padding:8px 12px;border:1px solid #dfe1e4;border-radius:6px;text-decoration:none;color:#0969da;">🔧 如何解决问题</a>
-<a href="#得到了什么结果" style="flex:1 1 160px;text-align:center;padding:8px 12px;border:1px solid #dfe1e4;border-radius:6px;text-decoration:none;color:#0969da;">📊 得到了什么结果</a>
-<a href="#文件说明" style="flex:1 1 160px;text-align:center;padding:8px 12px;border:1px solid #dfe1e4;border-radius:6px;text-decoration:none;color:#0969da;">📁 文件说明</a>
-<a href="#参考文献" style="flex:1 1 160px;text-align:center;padding:8px 12px;border:1px solid #dfe1e4;border-radius:6px;text-decoration:none;color:#0969da;">📚 参考文献</a>
-
-</div>
+| 📖 背景知识 | 🎯 解决什么问题 | 🔧 如何解决问题 | 📊 得到了什么结果 | 📁 文件说明 | 📚 参考文献 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [配电网现状](#-背景知识) | [配电网规划问题](#-解决什么问题) | [建立数学模型](#-如何解决问题) | [最终实验结果](#-得到了什么结果) | [文件说明](#-文件说明) | [参考文献](#-参考文献) |
 
 ## 📖 背景知识
 随着城市化进程加速，深圳等超大城市对电力供应的可靠性和经济性提出更高要求。传统配电网多为单电源树状结构（单供），一旦电源或线路故障，下游用户面临全面停电风险。例如，医院、数据中心等关键用户停电可能造成巨额经济损失或公共安全事件。为应对此问题，需通过双电源互联（双供）提升系统冗余，但新增联络线、开关和电源扩容会大幅增加建设成本，需在可靠性提升与经济性之间权衡。
