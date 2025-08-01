@@ -105,30 +105,49 @@
 我们团队的这份方案，从全社会 **1611 支队伍、3438 名参赛者**中脱颖而出，获得了**深圳杯数学建模挑战赛的全国第二**！
 
 ### 问题一：单供配电网的建立
+我们融合了遗传算法和模拟退火算法，对电网主干进行优化。优化过程如下：
+
+![演示动画1](figs/res1.gif)
+
+
+遗传算法，模拟退火算法，我们融合的遗传退火算法，特点分别如下
+
 <p align="center">
-  <img src="figs/fig10.png" width="75%">
+  <img src="figs/fig10.png" width="100%">
 </p>
+
+整个优化过程如下：
+
 <p align="center">
-  <img src="figs/fig13.png" width="75%">
+  <img src="figs/res2.gif" width="75%">
 </p>
+
 
 ### 问题二：两个单供配电网的建立
 <p align="center">
-  <img src="figs/fig11.png" width="75%">
+  <img src="figs/fig11.png" width="80%">
 </p>
+
 <p align="center">
-  <img src="figs/fig14.png" width="50%">
+  <img src="figs/fig12.png" width="50%">
 </p>
 
 ### 问题三：双供配电网的建立
 <p align="center">
-  <img src="figs/fig12.png" width="75%">
+  <img src="figs/fig13.png" width="100%">
 </p>
 <p align="center">
-  <img src="figs/fig15.png" width="50%">
+  <img src="figs/fig14.png" width="100%">
 </p>
 
 ### 问题四：双供配电网的优化
+<p align="center">
+  <img src="figs/fig15.png" width="100%">
+</p>
+<p align="center">
+  <img src="figs/fig16.png" width="100%">
+</p>
+
 
 ## 文件说明
 
